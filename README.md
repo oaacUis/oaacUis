@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my degree in electronic engineering
 - 🌱 I’m currently learning python to put hands on machine learning and data analyst
-- 🤔 I’m looking for help with Recognition algorithm  based on clothes description for people identification using machine learning and image processing 
+- 🤔 I’m looking for help with Recognition algorithm using machine learning and image processing 
 - 💬 Ask me about circuits and python programming
 - ⚡ Fun fact: I really love cats
 
